@@ -10,4 +10,9 @@ Task2:
 
 Write a Python program to write a “list” to a file
 
+Task3:
+
+Write python code to generate Init function of GPIO for AVR
+
+
 
