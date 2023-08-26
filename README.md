@@ -14,5 +14,11 @@ Task3:
 
 Write python code to generate Init function of GPIO for AVR
 
+Task4:
+
+Write a Python program to get the command-line arguments
+Hint: import sys
+
+
 
 
